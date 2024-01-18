@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+body{
+    background-color: rgb(0, 255, 208);
+}
+.name{
+    font-family: 'Tangerine', cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+table{
+    border:2px solid black;
+
+}
+img{
+    border-radius: 40px;
+}
